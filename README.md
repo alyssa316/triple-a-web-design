@@ -1,6 +1,6 @@
 # triple-a-web-design
 
-	Our website is a place that started in an instant. We had discussed making a website together before, but we had never actually done it. When this project was mentioned, however, we knew that we should jump at the opportunity to work together. Although at times we disagree, we work together grandly.
+Our website is a place that started in an instant. We had discussed making a website together before, but we had never actually done it. When this project was mentioned, however, we knew that we should jump at the opportunity to work together. Although at times we disagree, we work together grandly.
 
 -Make sure to hover over the word cloud on the home page, and notice the design.
 
@@ -56,7 +56,7 @@
 
 
 
-	We would have done this using PHP, but since we knew it would not work once it was downloaded, we chose to make it link to another page instead. The 		button does not actually send the file to email.
+We would have done this using PHP, but since we knew it would not work once it was downloaded, we chose to make it link to another page instead. The button does not actually send the file to email.
 
 -Check out the different fonts we used.
 
